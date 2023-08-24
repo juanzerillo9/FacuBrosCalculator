@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1692912409 source:c:\users\juan cruz zerillo\documents\jz\c\nueva carpeta\calculadora 2\main.c
+	<windows.h>
+	<stdio.h>
+
